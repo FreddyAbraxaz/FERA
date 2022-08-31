@@ -1,5 +1,3 @@
-# FERA
-
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
@@ -988,26 +986,11 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion | CL
+#EXTINF:0 tvg-country="PE" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="Local",Central TV (Chosica)
 
-https://cloudvideo.servers10.com:8081/8128/index.m3u8?
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8?
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos | CL
 
-https://cloudvideo.servers10.com:8081/8212/index.m3u8?
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Series | CL
-
-https://cloudvideo.servers10.com:8081/8208/index.m3u8?
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Terror | CL
-
-https://cloudvideo.servers10.com:8081/8206/index.m3u8?
 
 
