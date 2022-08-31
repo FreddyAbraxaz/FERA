@@ -997,7 +997,11 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 
 https://v4.tustreaming.cl/s1tv/playlist.m3u8?
 
+#EXTM3U
 
+#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined",Innova FM (Bagua Grande) (480p) [Not 24/7]
+
+https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8?
 
 
 
