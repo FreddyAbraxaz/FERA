@@ -991,6 +991,13 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8?
 
 
+#EXTM3U
+
+#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined",DMJ (Cuzco) (720p) [Not 24/7]
+
+https://v4.tustreaming.cl/s1tv/playlist.m3u8?
+
+
 
 
 
